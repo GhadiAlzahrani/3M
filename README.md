@@ -1,5 +1,6 @@
-# 3M
-Advanced Programming - JavaFX
+# Manage My Money "3M"
+Advanced Programming - JavaFX 
+
 Our project aims to assist individuals in effectively managing
 their finances and purchases. We provide comprehensive
 solutions for budget management, purchase tracking, and
